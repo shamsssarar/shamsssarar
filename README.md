@@ -31,6 +31,7 @@ Instead of just writing code, I focus on building resilient systems. My developm
 - **User-Centric UI:** Believing that performance *is* a feature. I obsess over Core Web Vitals and micro-interactions.
 - **Continuous Learning:** Currently diving deeper into advanced AI/RAG architectures, vector databases (pgvector), and distributed system patterns.
 
+---
 
 ### 💻 Tech Stack & Tools
 
