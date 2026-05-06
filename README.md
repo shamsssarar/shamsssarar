@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banner.jpg" alt="Shams Sarar - Full Stack Engineer & AI Integration Specialist" width="100%" />
+</div>
+
+---
+
 <h1 align="center">Hi there 👋, I'm Shams Sarar</h1>
 <h3 align="center">Full-Stack Engineer | AI Integration Specialist | Next.js & Prisma Architect</h3>
 <p align="center">
@@ -94,8 +100,3 @@ Instead of just writing code, I focus on building resilient systems. My developm
   </a>
 </div>
 
-**Performance Optimization:**
-
-Leveraging Next.js SSR/SSG and edge caching for lightning-fast delivery.
-
----
