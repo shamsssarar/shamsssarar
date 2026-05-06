@@ -77,7 +77,7 @@ Instead of just writing code, I focus on building resilient systems. My developm
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamsssarar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shamsssarar&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamsssarar&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
