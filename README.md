@@ -3,6 +3,7 @@
 <p align="center">
   I specialize in architecting high-performance, scalable web applications with a heavy focus on the modern TypeScript/JavaScript ecosystem. From engineering robust relational database schemas to crafting buttery-smooth, physics-based UI animations, I build digital experiences that are both deeply functional and visually premium.
 </p>
+
 ---
 
 ### 🚀 What I Do
@@ -11,6 +12,7 @@
 - **High-Fidelity UI/UX:** Crafting industry-standard interfaces using Framer Motion, Shadcn UI, and custom preloaders.
 - **Robust Data Layers:** Designing secure, type-safe backends and APIs using Node.js, Express, and Prisma ORM.
 - **Performance Optimization:** Leveraging Next.js SSR/SSG, edge caching, and serverless architectures for lightning-fast delivery.
+
 ---
 
 ### 💼 Featured Projects
@@ -25,6 +27,7 @@
 ### 💻 Tech Stack & Tools
 
 **Languages & Core**
+
 <br/>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,6 +35,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frontend Architecture**
+
 <br/>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,6 +44,7 @@
 ![Radix/Shadcn](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 
 **Backend & Database**
+
 <br/>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -48,6 +53,7 @@
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
 
 **Integrations, Tools & DevOps**
+
 <br/>
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -75,13 +81,18 @@
   <a href="https://shamssarar.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
-</div>- **Performance Optimization:** Leveraging Next.js SSR/SSG and edge caching for lightning-fast delivery.
+</div>
+
+**Performance Optimization:**
+
+Leveraging Next.js SSR/SSG and edge caching for lightning-fast delivery.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 **Frontend Development**
+
 <br/>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -90,6 +101,7 @@
 ![Radix/Shadcn](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 
 **Backend & Database**
+
 <br/>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -97,6 +109,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Integrations & Tooling**
+
 <br/>
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
