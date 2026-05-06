@@ -5,6 +5,7 @@
 </p>
 ---
 ### 🚀 What I Do
+
 - **Intelligent Architecture:** Integrating generative AI (RAG) and custom chatbots directly into full-stack ecosystems.
 - **High-Fidelity UI/UX:** Crafting industry-standard interfaces using Framer Motion, Shadcn UI, and custom preloaders.
 - **Robust Data Layers:** Designing secure, type-safe backends and APIs using Node.js, Express, and Prisma ORM.
@@ -53,7 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamsssarar&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 ---
-### 📫 Let's Connect
+###  📫 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/shamss-sarar-6652902a7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -100,7 +101,7 @@
 
 ---
 
-### 📫 Let's Connect
+###  📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shamss-sarar-6652902a7">
