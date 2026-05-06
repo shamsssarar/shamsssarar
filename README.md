@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.jpg" alt="Shams Sarar - Full Stack Engineer & AI Integration Specialist" width="100%" />
+  <img src="banner.jpg" alt="Shams Sarar - Full Stack Engineer & AI Integration Specialist" width="750" />
 </div>
 
 ---
