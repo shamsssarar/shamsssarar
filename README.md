@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.jpg" alt="Shams Sarar - Full Stack Engineer & AI Integration Specialist" width="750" />
+  <img src="banner.jpg" alt="Shams Sarar - Full Stack Engineer & AI Integration Specialist" width="650" />
 </div>
 
 ---
@@ -99,4 +99,9 @@ Instead of just writing code, I focus on building resilient systems. My developm
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
+<br/>
+<br/>
+<p align="center">
+  <code style="color: #64748B;"><i>Architected with precision by Shams Sarar © 2026</i></code>
+</p>
 
